@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=vdscratchy
+Description=vdscratchy theme by Vinyl Darkscratch, modified from Urko Mint Dark theme by Urko31
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/darkscratch
+ScriptFile=/usr/share/plymouth/themes/darkscratch/darkscratch.script

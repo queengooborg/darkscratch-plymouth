@@ -5,7 +5,7 @@ if [ $EUID -ne 0 ]; then
 	exit
 fi
 
-THEME='urko-mint-dark'
+THEME='darkscratch'
 INSTALLDIR=/usr/share/plymouth/themes
 
 printf "Copying '${THEME}' theme files..."

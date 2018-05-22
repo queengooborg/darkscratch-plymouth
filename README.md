@@ -1,6 +1,6 @@
-## Urko Mint Dark
+## Darkscratch Plymouth
 
-*Urko Mint Dark* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
+*Darkscratch Plymouth* is a modified version of the *Urko Mint Dark* theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
 
 It is mainly based on Dark Mint by Josep Sayol and it is intended to be used in conjonction with the Grub GFX theme of the same name. The idea is to keep the same design from the boot splash to the desktop.
 
@@ -12,16 +12,16 @@ From the terminal, run the install script:
 ## How to uninstall the theme
 From the terminal, run this command:
 
-    sudo /usr/share/plymouth/themes/urko-mint-dark/uninstall.sh
+    sudo /usr/share/plymouth/themes/darkscratch/uninstall.sh
 
 ## How to preview the theme
 After installing, you can preview the theme without having to reboot. Just run this command from the terminal:
 
-    sudo /usr/share/plymouth/themes/urko-mint-dark/preview.sh
+    sudo /usr/share/plymouth/themes/darkscratch/preview.sh
 
 It runs for 2 seconds by default. You can optionally specify the number of seconds to run the preview:
 
-    sudo /usr/share/plymouth/themes/urko-mint-dark/preview.sh 10
+    sudo /usr/share/plymouth/themes/darkscratch/preview.sh 10
 
 #### Note: previewing the theme requires *plymouth-x11*. To install the package:
 
@@ -30,7 +30,8 @@ It runs for 2 seconds by default. You can optionally specify the number of secon
 
 ## License
 
-Copyright (C) 2018  Urko31
+Copyright (C) 2018 Urko31
+Modified by Vinyl Darkscratch
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

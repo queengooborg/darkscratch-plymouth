@@ -1,6 +1,7 @@
-// Urko Mint Dark plymouth theme by Urko31
+// Darkscratch Plymouth theme by Vinyl Darkscratch
+// Modified version of Urko Mint Dark plymouth theme by Urko31
 // Theme based on "Mint plymouth theme 2.0" by Enriki: http://gnome-look.org/content/show.php/Mint+plymouth+theme+2.0?content=161036
-// Background based on "Black background wood 3" by iAmFreeman: http://iamfreeman.deviantart.com/art/Black-Background-Set-161870450
+// Background from Gooborg Studios website: https://www.gooborg.com/static/images/background.png
 
 Window.GetMaxWidth = fun () {
 	i = 0;
