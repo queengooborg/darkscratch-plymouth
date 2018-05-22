@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Urko Mint Dark
+Description=Urko Mint Dark theme by Urko31
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/urko-mint-dark
+ScriptFile=/usr/share/plymouth/themes/urko-mint-dark/urko-mint-dark.script
